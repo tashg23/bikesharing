@@ -9,6 +9,7 @@ We will look specifically at August 2019 data since in August, there will likely
 
 ## results: 
 ![Card](https://user-images.githubusercontent.com/113721712/226206368-83971b70-ee4f-44d0-9cbf-8f3dab55e47e.png)
+
 There were 2.3 M trips in August of 2019 in NYC. 
 
 ![Avg Trip Duration](https://user-images.githubusercontent.com/113721712/226206420-b91eb26b-4f38-489d-a205-58b197520816.png)
